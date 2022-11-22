@@ -25,14 +25,6 @@ html {
     grid-template-columns: repeat(3,1fr);
 }
 
-#search-bar > div {
-    /* border: 1px solid red; */
-    /* height: 100%;
-    width: 200px; */
-}
-
-
-
 #search {
     display: flex;
     justify-content: center;
